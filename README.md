@@ -96,6 +96,8 @@ This structure in `main.py` provides a convenient way to quickly load and experi
 
 The `requirements.txt` file lists all the Python packages necessary to run this project. These dependencies include libraries like PyTorch, fairseq2, pandas, and others required for data processing, model training, and interaction with the Sonar and MuTox models.
 
+Python 3.10.17
+
 To install these dependencies, navigate to the root directory of the project in your terminal and run the following command:
 
 ```bash
